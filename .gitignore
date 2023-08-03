@@ -1,0 +1,6 @@
+﻿target/m2e-wtp/web-resources/META-INF/maven/com.HwictList/HwictLIS/pom.properties
+.classpath
+.settings
+*.class
+target
+bin
